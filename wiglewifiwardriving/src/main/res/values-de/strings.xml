@@ -435,4 +435,6 @@
     <string name="enable_map_theme">Kartenstil wie App</string>
     <string name="no_individual_nets_map">Kartennetzanzeige deaktivieren</string>
     <string name="filter_show_btle">Bluetooth LE anzeigen</string>
+    <string name="settings_gps_head">GPS Einstellungen</string>
+    <string name="enable_kalman">GPS-Rauschen filtern</string>
 </resources>

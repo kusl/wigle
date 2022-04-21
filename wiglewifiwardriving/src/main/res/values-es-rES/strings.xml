@@ -434,4 +434,6 @@
     <string name="enable_map_theme">Hacer coincidir el tema del mapa con el de la aplicación</string>
     <string name="no_individual_nets_map">Deshabilitar la visualización de la red del mapa</string>
     <string name="filter_show_btle">Mostrar Bluetooth LE</string>
+    <string name="settings_gps_head">Configuración GPS</string>
+    <string name="enable_kalman">Filtrar el ruido del GPS</string>
 </resources>

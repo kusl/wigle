@@ -435,4 +435,6 @@
     <string name="enable_map_theme">Match kaartthema met app</string>
     <string name="no_individual_nets_map">Kaartnetweergave uitschakelen</string>
     <string name="filter_show_btle">Toon Bluetooth LE</string>
+    <string name="settings_gps_head">GPS-instellingen</string>
+    <string name="enable_kalman">GPS-ruis filteren</string>
 </resources>

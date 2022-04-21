@@ -434,4 +434,6 @@
     <string name="enable_map_theme">ऐप के लिए मैप थीम का मिलान करें</string>
     <string name="no_individual_nets_map">मानचित्र शुद्ध प्रदर्शन अक्षम करें</string>
     <string name="filter_show_btle">ब्लूटूथ ले दिखाएँ</string>
+    <string name="settings_gps_head">जीपीएस सेटिंग्स</string>
+    <string name="enable_kalman">GPS शोर फ़िल्टर करें</string>
 </resources>

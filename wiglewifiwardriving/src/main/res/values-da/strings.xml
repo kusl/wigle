@@ -435,4 +435,6 @@
     <string name="enable_map_theme">Tilpas korttema til app</string>
     <string name="no_individual_nets_map">Deaktiver visning af kortnet</string>
     <string name="filter_show_btle">Vis Bluetooth LE</string>
+    <string name="enable_kalman">"Filtrer GPS-støj "</string>
+    <string name="settings_gps_head">GPS instillinger</string>
 </resources>

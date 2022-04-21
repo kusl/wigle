@@ -435,4 +435,6 @@
     <string name="enable_map_theme">将地图主题与应用程序匹配</string>
     <string name="no_individual_nets_map">禁用地图网络显示</string>
     <string name="filter_show_btle">显示蓝牙 LE</string>
+    <string name="settings_gps_head">GPS 设置</string>
+    <string name="enable_kalman">过滤 GPS 噪声</string>
 </resources>
